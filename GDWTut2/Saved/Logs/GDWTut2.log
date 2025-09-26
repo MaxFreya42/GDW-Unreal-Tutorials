@@ -7255,3 +7255,408 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.26-20.26.11:921][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.26-20.26.11:921][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.26-20.26.11:921][499]AssetCheck: /Game/Blueprints/NPCs/BP_Turret Validating asset
+[2025.09.26-20.28.12:303][540]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Turret.Turret
+[2025.09.26-20.28.12:334][540]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.26-20.28.12:975][540]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.28.12:975][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.12:975][540]MaterialEditorStats: Shader Count: 0
+[2025.09.26-20.28.12:975][540]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.13:084][542]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.28.13:084][542]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.28.13:084][542]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.26-20.28.13:084][542]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.13:084][542]MaterialEditorStats: Shader Count: 5
+[2025.09.26-20.28.13:084][542]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.20:244][645]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.26-20.28.20:269][645]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.28.20:269][645]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.20:269][645]MaterialEditorStats: Shader Count: 0
+[2025.09.26-20.28.20:269][645]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.20:580][650]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.28.20:580][650]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.28.20:580][650]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.20:580][650]MaterialEditorStats: Shader Count: 2
+[2025.09.26-20.28.20:580][650]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.21:737][717]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.28.21:737][717]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.28.21:737][717]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.26-20.28.21:737][717]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.21:737][717]MaterialEditorStats: Shader Count: 4
+[2025.09.26-20.28.21:737][717]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.25:904][965]LogMaterialEditor: Saving and Compiling material Turret
+[2025.09.26-20.28.27:480][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.26-20.28.29:067][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.26-20.28.29:090][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-20.28.29:272][965]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Turret] ([1] browsable assets)...
+[2025.09.26-20.28.29:292][965]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Turret.Turret]
+[2025.09.26-20.28.29:292][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Turret]
+[2025.09.26-20.28.29:292][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Turret" FILE="../../../../Users/maxfr/OneDrive/Documents/Unreal Projects/GDW-Unreal-Tutorials/GDWTut2/Content/Materials/Turret.uasset" SILENT=true
+[2025.09.26-20.28.29:321][965]LogSavePackage: Moving output files for package: /Game/Materials/Turret
+[2025.09.26-20.28.29:322][965]LogSavePackage: Moving '../../../../Users/maxfr/OneDrive/Documents/Unreal Projects/GDW-Unreal-Tutorials/GDWTut2/Saved/TurretB2677A364E16BF1A15060998A6C98DB6.tmp' to '../../../../Users/maxfr/OneDrive/Documents/Unreal Projects/GDW-Unreal-Tutorials/GDWTut2/Content/Materials/Turret.uasset'
+[2025.09.26-20.28.29:355][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 265.162 ms (total: 54.1 sec)
+[2025.09.26-20.28.29:553][965]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-20.28.29:554][965]LogContentValidation: Enabled validators:
+[2025.09.26-20.28.29:554][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-20.28.29:554][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-20.28.29:554][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-20.28.29:554][965]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-20.28.29:554][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-20.28.29:554][965]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-20.28.29:554][965]AssetCheck: /Game/Materials/Turret Validating asset
+[2025.09.26-20.28.29:582][965]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.28.29:582][965]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.28.29:582][965]MaterialEditorStats: Nanite Compute Shader: 801 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.28.29:582][965]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.26-20.28.29:582][965]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.29:582][965]MaterialEditorStats: Shader Count: 19
+[2025.09.26-20.28.29:582][965]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.45:620][440]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.26-20.28.45:669][440]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.28.45:669][440]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.45:669][440]MaterialEditorStats: Shader Count: 0
+[2025.09.26-20.28.45:669][440]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.45:961][445]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.28.45:962][445]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.28.45:962][445]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.45:962][445]MaterialEditorStats: Shader Count: 2
+[2025.09.26-20.28.45:962][445]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.46:266][461]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.28.46:266][461]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.28.46:266][461]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.26-20.28.46:266][461]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.46:266][461]MaterialEditorStats: Shader Count: 4
+[2025.09.26-20.28.46:266][461]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.54:018][905]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.28.54:018][905]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.54:018][905]MaterialEditorStats: Shader Count: 0
+[2025.09.26-20.28.54:018][905]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.54:068][908]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.28.54:068][908]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.28.54:068][908]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.54:069][908]MaterialEditorStats: Shader Count: 2
+[2025.09.26-20.28.54:069][908]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.54:546][935]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.28.54:546][935]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.28.54:546][935]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.26-20.28.54:546][935]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.28.54:546][935]MaterialEditorStats: Shader Count: 4
+[2025.09.26-20.28.54:546][935]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.28.55:380][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8109.632324
+[2025.09.26-20.28.55:465][988]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-20.28.55:465][988]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8109.700684, Update Interval: 355.599854
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: ================================================
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Total job queries 1,898, among them cache hits 1,440 (75.87%), DDC hits 352 (18.55%), Duplicates 79 (4.16%)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Tracking 379 distinct input hashes that result in 267 distinct outputs (70.45%)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: RAM used: 3.55 MiB of 819.20 MiB budget. Usage: 0.43%
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Shaders Compiled: 27
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Jobs assigned 27, completed 27 (100%)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Average time worker was idle: 1961.18 s
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 1.83 s
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 1.94
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Shader code size: total 283.064 KiB, numShaders 27, average 10.483 KiB, min 4.289 KiB, max 19.195 KiB
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.53 s
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.07%
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Jobs were issued in 27 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Average processing rate: 3.17 jobs/sec
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Total thread time: 15.879 s
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Total thread preprocess time: 28.814 s
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Percentage time preprocessing: 181.46%
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Effective parallelization: 1.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.155170
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.31 sec, max 1.50 sec, min 1.11 sec)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.02 sec, max 1.17 sec, min 0.88 sec)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.73 sec, max 0.82 sec, min 0.66 sec)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.70 sec, max 0.81 sec, min 0.59 sec)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.08% of total time (compiled    5 times, average 0.73 sec, max 0.82 sec, min 0.66 sec)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 16.47% of total time (compiled    2 times, average 1.31 sec, max 1.50 sec, min 1.11 sec)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.23% of total time (compiled    6 times, average 0.38 sec, max 0.40 sec, min 0.36 sec)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display:                                                 FLumenCardCS - 12.88% of total time (compiled    2 times, average 1.02 sec, max 1.17 sec, min 0.88 sec)
+[2025.09.26-20.29.03:831][467]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.81% of total time (compiled    2 times, average 0.70 sec, max 0.81 sec, min 0.59 sec)
+[2025.09.26-20.29.03:832][467]LogShaderCompilers: Display: === Material stats ===
+[2025.09.26-20.29.03:832][467]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.26-20.29.03:832][467]LogShaderCompilers: Display: Materials Translated:    180
+[2025.09.26-20.29.03:832][467]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.09.26-20.29.03:832][467]LogShaderCompilers: Display: Material Translation Only: 0.07 s (39%)
+[2025.09.26-20.29.03:832][467]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.26-20.29.03:832][467]LogShaderCompilers: Display: Material Cache Hits: 12 (7%)
+[2025.09.26-20.29.03:832][467]LogShaderCompilers: Display: ================================================
+[2025.09.26-20.29.05:427][562]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.29.05:427][562]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.05:427][562]MaterialEditorStats: Shader Count: 0
+[2025.09.26-20.29.05:427][562]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.05:481][565]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.29.05:481][565]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.29.05:481][565]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.05:481][565]MaterialEditorStats: Shader Count: 2
+[2025.09.26-20.29.05:481][565]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.06:007][595]MaterialEditorStats: Base pass shader: 163 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.29.06:007][595]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.29.06:007][595]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.26-20.29.06:007][595]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.06:007][595]MaterialEditorStats: Shader Count: 4
+[2025.09.26-20.29.06:007][595]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.10:238][836]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.29.10:238][836]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.10:238][836]MaterialEditorStats: Shader Count: 0
+[2025.09.26-20.29.10:238][836]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.10:290][839]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.29.10:290][839]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.29.10:290][839]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.10:290][839]MaterialEditorStats: Shader Count: 2
+[2025.09.26-20.29.10:290][839]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.10:820][869]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.29.10:820][869]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.29.10:820][869]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.26-20.29.10:820][869]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.10:820][869]MaterialEditorStats: Shader Count: 4
+[2025.09.26-20.29.10:820][869]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.14:534][ 79]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.29.14:534][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.14:534][ 79]MaterialEditorStats: Shader Count: 0
+[2025.09.26-20.29.14:534][ 79]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.14:620][ 82]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.29.14:620][ 82]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.29.14:620][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.14:620][ 82]MaterialEditorStats: Shader Count: 2
+[2025.09.26-20.29.14:620][ 82]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.15:194][116]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.29.15:194][116]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.29.15:194][116]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.26-20.29.15:194][116]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.15:194][116]MaterialEditorStats: Shader Count: 4
+[2025.09.26-20.29.15:194][116]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.21:538][473]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.29.21:538][473]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.21:538][473]MaterialEditorStats: Shader Count: 0
+[2025.09.26-20.29.21:538][473]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.21:588][476]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.29.21:588][476]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.26-20.29.21:588][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.21:588][476]MaterialEditorStats: Shader Count: 2
+[2025.09.26-20.29.21:588][476]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.22:038][501]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.29.22:038][501]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.29.22:038][501]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.26-20.29.22:038][501]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.22:038][501]MaterialEditorStats: Shader Count: 4
+[2025.09.26-20.29.22:038][501]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.29.24:243][631]LogMaterialEditor: Saving and Compiling material Turret
+[2025.09.26-20.29.24:352][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.09.26-20.29.25:937][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.09.26-20.29.25:961][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-20.29.26:135][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Turret] ([1] browsable assets)...
+[2025.09.26-20.29.26:151][631]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Turret.Turret]
+[2025.09.26-20.29.26:151][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Turret]
+[2025.09.26-20.29.26:151][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Turret" FILE="../../../../Users/maxfr/OneDrive/Documents/Unreal Projects/GDW-Unreal-Tutorials/GDWTut2/Content/Materials/Turret.uasset" SILENT=true
+[2025.09.26-20.29.26:167][631]LogSavePackage: Moving output files for package: /Game/Materials/Turret
+[2025.09.26-20.29.26:167][631]LogSavePackage: Moving '../../../../Users/maxfr/OneDrive/Documents/Unreal Projects/GDW-Unreal-Tutorials/GDWTut2/Saved/TurretA95953E744D2381099342F84C1BE9CEF.tmp' to '../../../../Users/maxfr/OneDrive/Documents/Unreal Projects/GDW-Unreal-Tutorials/GDWTut2/Content/Materials/Turret.uasset'
+[2025.09.26-20.29.26:183][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 222.825 ms (total: 54.4 sec)
+[2025.09.26-20.29.26:288][631]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-20.29.26:288][631]LogContentValidation: Enabled validators:
+[2025.09.26-20.29.26:288][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-20.29.26:288][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-20.29.26:288][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-20.29.26:288][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-20.29.26:288][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-20.29.26:288][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-20.29.26:288][631]AssetCheck: /Game/Materials/Turret Validating asset
+[2025.09.26-20.29.26:308][631]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.29.26:308][631]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.26-20.29.26:308][631]MaterialEditorStats: Nanite Compute Shader: 801 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.26-20.29.26:308][631]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.26-20.29.26:308][631]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.26-20.29.26:308][631]MaterialEditorStats: Shader Count: 19
+[2025.09.26-20.29.26:308][631]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.26-20.32.04:105][746]LogShaderCompilers: Display: ================================================
+[2025.09.26-20.32.04:105][746]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.26-20.32.04:105][746]LogShaderCompilers: Display: Total job queries 1,950, among them cache hits 1,469 (75.33%), DDC hits 352 (18.05%), Duplicates 82 (4.21%)
+[2025.09.26-20.32.04:105][746]LogShaderCompilers: Display: Tracking 399 distinct input hashes that result in 283 distinct outputs (70.93%)
+[2025.09.26-20.32.04:105][746]LogShaderCompilers: Display: RAM used: 3.70 MiB of 819.20 MiB budget. Usage: 0.45%
+[2025.09.26-20.32.04:105][746]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.26-20.32.04:105][746]LogShaderCompilers: Display: Shaders Compiled: 47
+[2025.09.26-20.32.04:105][746]LogShaderCompilers: Display: Jobs assigned 47, completed 47 (100%)
+[2025.09.26-20.32.04:105][746]LogShaderCompilers: Display: Average time worker was idle: 964.76 s
+[2025.09.26-20.32.04:105][746]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.83 s
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Job life time (pending + execution): average 0.83 s, max 1.94
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Shader code size: total 489.883 KiB, numShaders 47, average 10.423 KiB, min 4.289 KiB, max 19.195 KiB
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.36 s
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Jobs were issued in 47 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Average processing rate: 3.52 jobs/sec
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Total thread time: 28.046 s
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Total thread preprocess time: 29.712 s
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Percentage time preprocessing: 105.94%
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Effective parallelization: 2.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.174992
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 1.26 sec, max 1.50 sec, min 1.11 sec)
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.10 sec, max 1.11 sec, min 1.09 sec)
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 0.98 sec, max 1.17 sec, min 0.88 sec)
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   10 times, average 0.75 sec, max 0.87 sec, min 0.66 sec)
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 0.72 sec, max 0.85 sec, min 0.59 sec)
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.70% of total time (compiled   10 times, average 0.75 sec, max 0.87 sec, min 0.66 sec)
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.70% of total time (compiled   10 times, average 0.38 sec, max 0.40 sec, min 0.36 sec)
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 13.44% of total time (compiled    3 times, average 1.26 sec, max 1.50 sec, min 1.11 sec)
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display:                                                 FLumenCardCS - 10.52% of total time (compiled    3 times, average 0.98 sec, max 1.17 sec, min 0.88 sec)
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.21% of total time (compiled    4 times, average 0.72 sec, max 0.85 sec, min 0.59 sec)
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: === Material stats ===
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Materials Translated:    186
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.09.26-20.32.04:106][746]LogShaderCompilers: Display: Material Translation Only: 0.08 s (39%)
+[2025.09.26-20.32.04:107][746]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.26-20.32.04:107][746]LogShaderCompilers: Display: Material Cache Hits: 12 (6%)
+[2025.09.26-20.32.04:107][746]LogShaderCompilers: Display: ================================================
+[2025.09.26-20.32.27:939][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.26-20.32.27:943][817]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Turret_Test' took 0.029
