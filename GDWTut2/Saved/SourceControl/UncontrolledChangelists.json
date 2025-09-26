@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/maxfr/OneDrive/Documents/Unreal Projects/GDW-Unreal-Tutorials/GDWTut2/Content/Blueprints/NPCs/BP_Turret.uasset",
+				"C:/Users/maxfr/OneDrive/Documents/Unreal Projects/GDW-Unreal-Tutorials/GDWTut2/Content/Blueprints/NPCs/BP_Projectile.uasset",
+				"C:/Users/maxfr/OneDrive/Documents/Unreal Projects/GDW-Unreal-Tutorials/GDWTut2/Content/Materials/Turret.uasset",
 				"C:/Users/maxfr/OneDrive/Documents/Unreal Projects/GDWTut2/Content/Framework/BP_GameMode.uasset",
 				"C:/Users/maxfr/OneDrive/Documents/Unreal Projects/GDWTut2/Content/Blueprints/Player/BP_FPCharacter.uasset",
 				"C:/Users/maxfr/OneDrive/Documents/Unreal Projects/GDWTut2/Content/Blueprints/PlayerFold/BP_FPCharacter.uasset",
